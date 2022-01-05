@@ -1,0 +1,11 @@
+Variables: Las variables son un espacio en memoria, que pueden almacenar valores como palabras, letras y números. 
+Para hacer uso de ellas se utiliza el nombre simbólico que tienen asociadas a dicho espacio.
+  
+Strings: Los strings son un tipo de dato en JavaScript, representan datos textuales y son una cadena de caracteres.
+ 
+Funciones: Las funciones son un conjunto de instrucciones que realizan una tarea o calculan un valor. Como por ejemplo operaciones matemáticas.
+  
+Declaraciones if: Es un condicional que sirve para realizar unas u otras tareas dependiendo de si se cumplen ciertas condiciones o no. 
+Funcionan evaluando una expresión que en caso de cumplirse se realizan las acciones relacionadas con el caso positivo. 
+
+Valores booleanos: Son un tipo de dato en JavaScript y representan valores de lógica binaria. Es decir representan falso o verdadero.  

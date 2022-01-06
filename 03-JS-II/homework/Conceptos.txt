@@ -1,0 +1,8 @@
+For: Son bucles de repetición que se ejecutan constantemente realizando tareas mientras que no se cumpla una condición. 
+En cuanto se cumpla dicha condición se sale del bucle.
+
+&&: Es un operador lógico que asocia dos o más condiciones, en el caso de cumplirse todas las condiciones devuelve true. 
+
+||: Es un operador lógico que se utiliza para evaluar dos o mas condiciones, pero en este caso con solo cumplirse una sola condición devuelve true.
+
+!: Se utiliza para negar una condición. Por ejemplo si se antepone en una condición que devuelve true con el símbolo ! va a retornar false.  
